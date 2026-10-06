@@ -1,0 +1,6 @@
+{
+  "name": "OmniTube AI - YouTube Intelligence & Market Analytics",
+  "description": "Enterprise YouTube Data API v3 intelligence platform featuring expert channel rankings, quality-first video curation, viewer comment sentiment analysis, brand teaser & trailer market intelligence, emerging talent scouting, fraud detection, and creator niche gap dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
